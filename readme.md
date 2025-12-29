@@ -1,3 +1,6 @@
+Install docker if not;
+sudo ./install_docker.sh
+
 start by:
 docker compose up
 
